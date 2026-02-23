@@ -1,9 +1,18 @@
-
-.parallax {
+.parallax-container {
+	position: relative;
+	width: 100%;
 	height: 100vh;
-	background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/35/LeNet-5_architecture.svg")
+	overflow: hidden;
+}
+
+.parallax-container .parallax {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-image: url("/assets/images/1024px-LeNet-5_architecture.svg.png");
 	background-attachment: fixed;
 	background-position: center;
-	background-repeat: no-repeat;
 	background-size: cover;
+	background-repeat: no-repeat;
+	z-index: -1;
 }
