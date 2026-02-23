@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+<!-- Parallax Background Effect -->
+<div class="parallax-container">
+  <div class="parallax"></div>
+</div>
