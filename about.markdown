@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a graduate student with a focus on predictive modeling, exploratory analysis, and data visualization. Currently, I've been increasing my exposure to quantitative finance, exploring optimizations and frameworks like modern portfolio theory and capital asset pricing model to manage risk. I have a deep interest in analyzing financial markets to build predictive models using time-series data.
+My interest in the markets span more than ten years, during which I've traded, researched, and followed market behavior closely.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+**Core Software** - RStudio, SAS, Jupyter Lab
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Programming Languages** - Python, Java, C, HTML/CSS/JavaScript, Bash
 
+**Databases** - MariaDB, MongoDB, PostgreSQL, SQLite3
 
-[jekyll-organization]: https://github.com/jekyll
+**Web Technologies** - Node.js, jQuery, PHP, npm,
+
+**Development Workflow & Environment** - Conda, Docker, Git, WSL2 Ubuntu, VirtualBox
+
+**Testing & automation** - JUnit, PyTest, Tox, Make
+
